@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+*.log
+*.csv
+*.xlsx
+*.json
+.history/*
+.vscode/*
+*.zip
+.env
+pretrained_models/*
+settings.py
